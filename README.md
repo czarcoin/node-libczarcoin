@@ -1,6 +1,6 @@
 **Notice: Development on this repository is currently on pause during our v3 rearchitecture. Please see [storj/storj](https://github.com/storj/storj) for ongoing v3 development.**
 
-# node-libstorj
+# node-libczarcoin
 
 [![Storj.io](https://storj.io/img/storj-badge.svg)](https://storj.io)
 [![Build Status](https://travis-ci.org/Storj/node-libstorj.svg?branch=master)](https://travis-ci.org/Storj/node-libstorj)
