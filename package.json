@@ -1,5 +1,5 @@
 {
-  "name": "storj",
+  "name": "czarcoin",
   "version": "5.1.0",
   "description": "Node.js library for encrypted file transfer on the Storj network.",
   "main": "index.js",
